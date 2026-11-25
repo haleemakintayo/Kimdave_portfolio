@@ -1,0 +1,90 @@
+:root,
+[data-theme="dark"] {
+  /* Dark Theme Colors (Default) */
+  --bg-primary: #0E0E0E;
+  --bg-surface: #181818;
+  --bg-elevated: #222222;
+  --bg-input: #1C1C1C;
+  --bg-input-focus: #252525;
+  --bg-dark: #080808;
+
+  --text-primary: #FFFFFF;
+  --text-secondary: #A3A3A3;
+  --text-muted: #737373;
+  --text-light: #FFFFFF;
+  --text-light-secondary: #CCCCCC;
+
+  --border-subtle: rgba(255, 255, 255, 0.12);
+  --border-strong: rgba(255, 255, 255, 0.28);
+  --border-subtle-dark: rgba(255, 255, 255, 0.12);
+  --border-strong-dark: rgba(255, 255, 255, 0.35);
+
+  --header-bg: rgba(14, 14, 14, 0.92);
+  --card-bg: #181818;
+  --card-hover-border: rgba(255, 255, 255, 0.3);
+
+  --btn-primary-bg: #FFFFFF;
+  --btn-primary-text: #0E0E0E;
+  --btn-primary-hover-bg: #EAEAEA;
+  --btn-outline-border: rgba(255, 255, 255, 0.5);
+  --btn-outline-text: #FFFFFF;
+  --btn-outline-hover-bg: #FFFFFF;
+  --btn-outline-hover-text: #0E0E0E;
+
+  --accent-gold: #D4AF37;
+  --accent-green: #34A853;
+  --accent-error: #E57373;
+
+  /* Typography */
+  --font-display: 'Cinzel', 'Playfair Display', 'Syne', -apple-system, BlinkMacSystemFont, 'Segoe UI', serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Transitions */
+  --transition-fast: 150ms cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-normal: 250ms cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-slow: 400ms cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* Spacing */
+  --container-max-width: 1360px;
+  --header-height: 76px;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+}
+
+[data-theme="light"] {
+  /* Light Theme Colors */
+  --bg-primary: #F7F5F0;
+  --bg-surface: #FFFFFF;
+  --bg-elevated: #F1EFEA;
+  --bg-input: #FAFAFA;
+  --bg-input-focus: #FFFFFF;
+  --bg-dark: #151515;
+
+  --text-primary: #151515;
+  --text-secondary: #5F5F5F;
+  --text-muted: #8E8E8E;
+  --text-light: #F7F5F0;
+  --text-light-secondary: #CCCCCC;
+
+  --border-subtle: rgba(21, 21, 21, 0.12);
+  --border-strong: rgba(21, 21, 21, 0.28);
+  --border-subtle-dark: rgba(247, 245, 240, 0.15);
+  --border-strong-dark: rgba(247, 245, 240, 0.35);
+
+  --header-bg: rgba(247, 245, 240, 0.94);
+  --card-bg: #FFFFFF;
+  --card-hover-border: rgba(21, 21, 21, 0.28);
+
+  --btn-primary-bg: #151515;
+  --btn-primary-text: #F7F5F0;
+  --btn-primary-hover-bg: #2b2b2b;
+  --btn-outline-border: #151515;
+  --btn-outline-text: #151515;
+  --btn-outline-hover-bg: #151515;
+  --btn-outline-hover-text: #F7F5F0;
+
+  --accent-gold: #C5A059;
+  --accent-green: #2E7D32;
+  --accent-error: #D32F2F;
+}

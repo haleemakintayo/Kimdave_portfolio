@@ -1,0 +1,313 @@
+{
+  "sourceRoot": "C:\\Users\\echoe\\OneDrive\\Documents\\KIMDAVE PHOTOS",
+  "curatedRawDir": "raw-assets/curated",
+  "outputAssetsDir": "src/assets/projects",
+  "generatedTsPath": "src/data/generated/curatedAssets.ts",
+  "projects": [
+    {
+      "projectSlug": "weddings-aug-2024",
+      "title": "August 2024 Wedding Story",
+      "items": [
+        {
+          "id": "aug24-01",
+          "slug": "aug24-01-img-2886",
+          "curatedSubdir": "01-moments",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_2886.JPG",
+          "marker": "X"
+        },
+        {
+          "id": "aug24-02",
+          "slug": "aug24-02-img-2912",
+          "curatedSubdir": "01-moments",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_2912.JPG",
+          "marker": "unmarked"
+        },
+        {
+          "id": "aug24-03",
+          "slug": "aug24-03-img-2949",
+          "curatedSubdir": "01-moments",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_2949.JPG",
+          "marker": "unmarked"
+        },
+        {
+          "id": "aug24-04",
+          "slug": "aug24-04-img-2975",
+          "curatedSubdir": "01-moments",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_2975.JPG",
+          "marker": "unmarked"
+        },
+        {
+          "id": "aug24-05",
+          "slug": "aug24-05-img-2992",
+          "curatedSubdir": "01-moments",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_2992.JPG",
+          "marker": "unmarked"
+        },
+        {
+          "id": "aug24-06",
+          "slug": "aug24-06-img-2996",
+          "curatedSubdir": "01-moments",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_2996.JPG",
+          "marker": "unmarked"
+        },
+        {
+          "id": "aug24-07",
+          "slug": "aug24-07-img-2527",
+          "curatedSubdir": "02-details",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\IMG_2527.JPG",
+          "marker": "details"
+        },
+        {
+          "id": "aug24-08",
+          "slug": "aug24-08-img-2531",
+          "curatedSubdir": "02-details",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\IMG_2531.JPG",
+          "marker": "details"
+        },
+        {
+          "id": "aug24-09",
+          "slug": "aug24-09-img-2535",
+          "curatedSubdir": "02-details",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\IMG_2535.JPG",
+          "marker": "details"
+        },
+        {
+          "id": "aug24-10",
+          "slug": "aug24-10-img-2541",
+          "curatedSubdir": "02-details",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\IMG_2541.JPG",
+          "marker": "details"
+        },
+        {
+          "id": "aug24-11",
+          "slug": "aug24-11-img-2546",
+          "curatedSubdir": "02-details",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\IMG_2546.JPG",
+          "marker": "details"
+        },
+        {
+          "id": "aug24-12",
+          "slug": "aug24-12-img-2550",
+          "curatedSubdir": "02-details",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\IMG_2550.JPG",
+          "marker": "details"
+        },
+        {
+          "id": "aug24-13",
+          "slug": "aug24-13-img-2555",
+          "curatedSubdir": "02-details",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\IMG_2555.JPG",
+          "marker": "details"
+        },
+        {
+          "id": "aug24-14",
+          "slug": "aug24-14-img-2585",
+          "curatedSubdir": "02-details",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\IMG_2585.JPG",
+          "marker": "details"
+        }
+      ]
+    },
+    {
+      "projectSlug": "weddings-2026-stories",
+      "title": "2026 Wedding Stories",
+      "items": [
+        {
+          "id": "w26-01",
+          "slug": "w26-01-img-0731",
+          "curatedSubdir": "01-dashes-may-2026",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_0731.jpg",
+          "marker": "mapped-0173"
+        },
+        {
+          "id": "w26-02",
+          "slug": "w26-02-img-0676",
+          "curatedSubdir": "01-dashes-may-2026",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_0676.jpg",
+          "marker": "dash"
+        },
+        {
+          "id": "w26-03",
+          "slug": "w26-03-img-0677",
+          "curatedSubdir": "01-dashes-may-2026",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_0677.jpg",
+          "marker": "dash-arrow"
+        },
+        {
+          "id": "w26-04",
+          "slug": "w26-04-img-0842",
+          "curatedSubdir": "01-dashes-may-2026",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_0842.jpg",
+          "marker": "tick"
+        },
+        {
+          "id": "w26-05",
+          "slug": "w26-05-img-0848",
+          "curatedSubdir": "01-dashes-may-2026",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_0848.jpg",
+          "marker": "dash"
+        },
+        {
+          "id": "w26-06",
+          "slug": "w26-06-img-0877",
+          "curatedSubdir": "01-dashes-may-2026",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_0877.jpg",
+          "marker": "dash"
+        },
+        {
+          "id": "w26-07",
+          "slug": "w26-07-img-0890",
+          "curatedSubdir": "01-dashes-may-2026",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_0890.jpg",
+          "marker": "bar"
+        },
+        {
+          "id": "w26-08",
+          "slug": "w26-08-img-6849",
+          "curatedSubdir": "02-featured-shapes",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_6849.jpg",
+          "marker": "hollow-square"
+        },
+        {
+          "id": "w26-09",
+          "slug": "w26-09-img-8249",
+          "curatedSubdir": "02-featured-shapes",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_8249.jpg",
+          "marker": "filled-star"
+        },
+        {
+          "id": "w26-10",
+          "slug": "w26-10-img-8284",
+          "curatedSubdir": "02-featured-shapes",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_8284.jpg",
+          "marker": "hollow-circle"
+        },
+        {
+          "id": "w26-11",
+          "slug": "w26-11-img-4081",
+          "curatedSubdir": "02-featured-shapes",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_4081.jpg",
+          "marker": "unmarked"
+        },
+        {
+          "id": "w26-12",
+          "slug": "w26-12-img-8982",
+          "curatedSubdir": "03-dots-circles-sep26",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_8982.jpg",
+          "marker": "filled-dot"
+        },
+        {
+          "id": "w26-13",
+          "slug": "w26-13-img-9002",
+          "curatedSubdir": "03-dots-circles-sep26",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_9002.jpg",
+          "marker": "filled-dot"
+        },
+        {
+          "id": "w26-14",
+          "slug": "w26-14-img-9009",
+          "curatedSubdir": "03-dots-circles-sep26",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_9009.jpg",
+          "marker": "hollow-circle-mapped-9069"
+        },
+        {
+          "id": "w26-15",
+          "slug": "w26-15-img-9122",
+          "curatedSubdir": "03-dots-circles-sep26",
+          "sourceRelPath": "EVENT\\WEDDINGS\\IMG_9122.jpg",
+          "marker": "hollow-oval"
+        }
+      ]
+    },
+    {
+      "projectSlug": "wedding-details-editorial",
+      "title": "June 2024 Bridal & Styling Details",
+      "items": [
+        {
+          "id": "det24-01",
+          "slug": "det24-01-details-06",
+          "curatedSubdir": "jun-2024",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\DETAILS (6).JPG",
+          "marker": "details"
+        },
+        {
+          "id": "det24-02",
+          "slug": "det24-02-details-09",
+          "curatedSubdir": "jun-2024",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\DETAILS (9).JPG",
+          "marker": "details"
+        },
+        {
+          "id": "det24-03",
+          "slug": "det24-03-details-10",
+          "curatedSubdir": "jun-2024",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\DETAILS (10).JPG",
+          "marker": "details"
+        },
+        {
+          "id": "det24-04",
+          "slug": "det24-04-details-19",
+          "curatedSubdir": "jun-2024",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\DETAILS (19).JPG",
+          "marker": "details"
+        },
+        {
+          "id": "det24-05",
+          "slug": "det24-05-details-23",
+          "curatedSubdir": "jun-2024",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\DETAILS (23).JPG",
+          "marker": "details"
+        },
+        {
+          "id": "det24-06",
+          "slug": "det24-06-details-33",
+          "curatedSubdir": "jun-2024",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\DETAILS (33).JPG",
+          "marker": "details"
+        },
+        {
+          "id": "det24-07",
+          "slug": "det24-07-details-35",
+          "curatedSubdir": "jun-2024",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\DETAILS (35).JPG",
+          "marker": "details"
+        },
+        {
+          "id": "det24-08",
+          "slug": "det24-08-details-36",
+          "curatedSubdir": "jun-2024",
+          "sourceRelPath": "EVENT\\WEDDINGS\\DETAILS\\DETAILS (36).JPG",
+          "marker": "details"
+        }
+      ]
+    },
+    {
+      "projectSlug": "about-kim-dave",
+      "title": "About Kim Dave (Ayinde David Oluwatimileyin)",
+      "sourceRoot": "C:\\Users\\echoe\\Downloads\\KIM PORTRAIT",
+      "items": [
+        {
+          "id": "about-main",
+          "slug": "about-main-img-3708",
+          "curatedSubdir": "portraits",
+          "sourceRelPath": "IMG_3708.jpg",
+          "marker": "primary-portrait"
+        },
+        {
+          "id": "about-studio-bts",
+          "slug": "about-studio-img-3738",
+          "curatedSubdir": "behind-the-brand",
+          "sourceRelPath": "IMG_3738.jpg",
+          "marker": "studio-bts"
+        },
+        {
+          "id": "about-gallery-bw",
+          "slug": "about-gallery-kim-07",
+          "curatedSubdir": "behind-the-brand",
+          "sourceRelPath": "KIM (7).jpg",
+          "marker": "gallery-monochrome"
+        }
+      ]
+    }
+  ]
+}
